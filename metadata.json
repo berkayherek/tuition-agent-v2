@@ -1,0 +1,5 @@
+{
+  "name": "Tuition AI Agent",
+  "description": "A full-stack AI agent extension for the Tuition System using Firestore, Gemini, and React.",
+  "requestFramePermissions": []
+}

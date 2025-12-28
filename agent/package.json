@@ -1,0 +1,20 @@
+{
+  "name": "tuition-agent",
+  "version": "1.0.0",
+  "description": "AI Agent backend for Tuition System",
+  "main": "agent.js",
+  "type": "module",
+  "scripts": {
+    "start": "node agent.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "firebase-admin": "^12.1.0",
+    "@google/genai": "^0.0.21",
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
